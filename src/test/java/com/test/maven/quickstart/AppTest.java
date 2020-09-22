@@ -1,4 +1,5 @@
-package com.test.maven.quickstart;
+
+\\package com.test.maven.quickstart;
 
 import static org.junit.Assert.assertTrue;
 
